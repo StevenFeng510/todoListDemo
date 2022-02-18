@@ -192,7 +192,7 @@ button {
             width: 100%;
             display: flex;
             justify-content: space-between;
-            background: #686f70;
+            background: #686f71;
             align-items: center;
             border-radius: 8px;
             padding: 20px;
